@@ -1,0 +1,15 @@
+{
+  "name": "Facebook",
+  "description": "FB",
+  "version": "1.0.0",
+  "homepage": "http://truc.com",
+  "private": "true",
+  "dependencies": {
+    "express": "~3.1.0"
+  },
+  "author": "Yannis M rad",
+  "main": "index",
+  "engines": {
+    "node": ">= 0.6.10"
+  }
+}
